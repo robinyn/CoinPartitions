@@ -1,5 +1,5 @@
 n=200 
-coefArr=[1 for i in range(0, n+1)] #
+coefArr=[1 for i in range(0, n+1)]
 tempArr=[0 for i in range(0, n+1)]
 conditionArr=[1,2,5,10,20,50,100,200]
 x = 0
